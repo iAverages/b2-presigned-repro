@@ -1,0 +1,14 @@
+const PORT = 3000;
+
+const S3_ENDPOINT_REGION = "";
+const S3_ENDPOINT_URL = "";
+
+// For public bucket
+const S3_PUBLIC_KEY = "";
+const S3_PUBLIC_SECRET = "";
+const S3_PUBLIC_BUCKET = "";
+
+// For private bucket
+const S3_PRIVATE_KEY = "";
+const S3_PRIVATE_SECRET = "";
+const S3_PRIVATE_BUCKET = "";

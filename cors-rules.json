@@ -1,0 +1,17 @@
+[
+    {
+        "allowedHeaders": [
+            "*"
+        ],
+        "allowedOperations": [
+            "s3_head",
+            "s3_get",
+            "s3_put"
+        ],
+        "allowedOrigins": [
+            "*"
+        ],
+        "corsRuleName": "dan-cors-error",
+        "maxAgeSeconds": 3600
+    }
+]
